@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biswanath Bera</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="center">
 <img align="center"  src="https://media.discordapp.net/attachments/841547652402249768/919223924456296509/img1.jpg" alt="" height="230" width="240"/>
