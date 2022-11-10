@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **Full stack Webdevelopment**
 
-- 👨‍💻 All of my projects are available at [https://devbisu.tk/](https://devbisu.tk/)
+- 👨‍💻 All of my projects are available at [https://www.bisu.site//](https://www.bisu.site/)
 
 - 💬 Ask me about **react,nextjs,html,css,javascript,etc**
 
 - 📫 How to reach me **biswanathbera@gmail.com**
 
-- 📄 Know about my experiences [https://devbisu.tk/#SKILL](https://devbisu.tk/#SKILL)
+- 📄 Know about my experiences [https://www.bisu.site/](https://www.bisu.site/)
 
 - ⚡ Fun fact **i think i am noob**
 
